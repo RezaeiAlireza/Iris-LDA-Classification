@@ -13,7 +13,8 @@ The Iris dataset is a classic dataset used in machine learning and statistics. I
 2. Install the required dependencies using pip: pip install -r requirements.txt
 3. Run the main script: python iris_lda_classification.py
 ## Project Structure
-iris_lda_classification.py: Main script for loading the dataset, applying LDA, and evaluating the classification performance.
+- iris_lda_classification.py: Main script for loading the dataset, applying LDA, and evaluating the classification performance.
+- requirements.txt: Contains the required dependencies for this project.
 ## LDA for Dimensionality Reduction
 Linear Discriminant Analysis (LDA) is used as a dimensionality reduction technique, transforming the four-dimensional feature space into a lower-dimensional space. In this case, the transformed space has two dimensions, which helps visualize the data and reduces the computational complexity of the model.
 ## Model Evaluation
